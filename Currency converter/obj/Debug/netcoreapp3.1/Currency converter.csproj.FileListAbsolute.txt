@@ -1,0 +1,15 @@
+C:\Users\mkadr\source\repos\Currency converter\bin\Debug\netcoreapp3.1\Currency converter.exe
+C:\Users\mkadr\source\repos\Currency converter\bin\Debug\netcoreapp3.1\Currency converter.deps.json
+C:\Users\mkadr\source\repos\Currency converter\bin\Debug\netcoreapp3.1\Currency converter.runtimeconfig.json
+C:\Users\mkadr\source\repos\Currency converter\bin\Debug\netcoreapp3.1\Currency converter.runtimeconfig.dev.json
+C:\Users\mkadr\source\repos\Currency converter\bin\Debug\netcoreapp3.1\Currency converter.dll
+C:\Users\mkadr\source\repos\Currency converter\bin\Debug\netcoreapp3.1\Currency converter.pdb
+C:\Users\mkadr\source\repos\Currency converter\obj\Debug\netcoreapp3.1\Currency converter.csprojAssemblyReference.cache
+C:\Users\mkadr\source\repos\Currency converter\obj\Debug\netcoreapp3.1\Currency_converter.Form1.resources
+C:\Users\mkadr\source\repos\Currency converter\obj\Debug\netcoreapp3.1\Currency converter.csproj.GenerateResource.cache
+C:\Users\mkadr\source\repos\Currency converter\obj\Debug\netcoreapp3.1\Currency converter.AssemblyInfoInputs.cache
+C:\Users\mkadr\source\repos\Currency converter\obj\Debug\netcoreapp3.1\Currency converter.AssemblyInfo.cs
+C:\Users\mkadr\source\repos\Currency converter\obj\Debug\netcoreapp3.1\Currency converter.csproj.CoreCompileInputs.cache
+C:\Users\mkadr\source\repos\Currency converter\obj\Debug\netcoreapp3.1\Currency converter.dll
+C:\Users\mkadr\source\repos\Currency converter\obj\Debug\netcoreapp3.1\Currency converter.pdb
+C:\Users\mkadr\source\repos\Currency converter\obj\Debug\netcoreapp3.1\Currency converter.genruntimeconfig.cache
